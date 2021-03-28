@@ -1,7 +1,7 @@
 title: Alternate Pictures
 originalAuthor: 1234567890num
 game: kh2
-description: A mod to apply the new models and pictures from GoA additions without changing the texts. This will also replace some of the existing pictures with new ones made by Televo.
+description: A mod to replace some of the existing pictures with new ones made by Televo along with new model & picture for Detection Saber & Frontier of Ultima. If you want to use the original pictures, just delete the blocks for the unwanted pictures in the mod.yml.
 assets:
 #Detection Saber Model
 - name: obj/W_EX010_Y0.a.fm
