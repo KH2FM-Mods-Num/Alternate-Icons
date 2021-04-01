@@ -160,12 +160,13 @@ assets:
   method: imd
   source:
   - name: itempic/Reflect.png
-#Implement New Icon and Stats
+#Implement New Pictures and Stats
 - name: 03system.bin
   method: binarc
   source:
   - name: item
     type: list
-    method: copy
+    method: listpatch
     source:
-    - name: item.bin
+      - name: ItemList.yml
+        type: item
